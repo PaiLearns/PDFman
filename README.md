@@ -1,6 +1,6 @@
 # PDFman: PDF Manipulator
 
-A browser-based PDF workspace for merging, splitting, and organizing PDFs. No login, no paywall, no bullshit. Just PDF tools that do what they should. Developed by PaiDev. Files are processed locally; originals are never overwritten and every operation creates a separate download.
+A browser-based PDF workspace for merging, splitting, and organizing PDFs. No login, no paywall, no bullshit. Just PDF tools that do what they should. Files are processed locally; originals are never overwritten and every operation creates a separate download.
 
 ## Run with XAMPP
 
